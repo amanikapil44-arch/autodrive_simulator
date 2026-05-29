@@ -1,0 +1,27 @@
+
+---
+
+## 🎮 Controls
+
+| Key | Action |
+|-----|--------|
+| **M** | Toggle Auto/Manual mode |
+| **R** | Reset car position |
+| **B** | Toggle bounding boxes |
+| **Q** | Quit simulator |
+| **Arrow Keys / WASD** | Manual driving (when in Manual mode) |
+
+---
+
+## 🧠 Deep Learning Concepts Used
+
+| Concept | Application |
+|---------|-------------|
+| Convolutional Neural Networks (CNNs) | Lane detection using edge detection |
+| Computer Vision | Object detection and bounding boxes |
+| Reinforcement Learning (planned) | Decision making for braking/steering |
+| Real-time Processing | 60 FPS continuous loop |
+
+---
+
+## 📁 Project Structure
