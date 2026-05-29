@@ -1,0 +1,4 @@
+Camera Image → Lane Detection → Object Detection → Decision Making → Car Control → Display
+     ↓              ↓                ↓                  ↓              ↓           ↓
+  PyGame        OpenCV           Find cows         Brake/Steer     Move Car     Show Output
+   Window      Edge Detect      & cars            Traffic Light    Update      2 Windows
