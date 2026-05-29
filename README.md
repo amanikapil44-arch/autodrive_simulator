@@ -20,3 +20,17 @@ A complete autonomous driving simulator built with Python, PyGame, and OpenCV. T
 ---
 
 ## 🏗️ Project Architecture
+
+┌─────────────────────────────────────────────────────────────┐
+│ AUTODRIVE SIMULATOR │
+├─────────────────────────────────────────────────────────────┤
+│ │
+│ MODULE 1 MODULE 2 MODULE 3 MODULE 4 │
+│ Environment Perception Decision Integration│
+│ │
+│ • Road • Lane Detect • Brake Logic • Main Loop │
+│ • Traffic Light • Object Detect • Steer Logic • Display │
+│ • Obstacles • Bounding Box • Speed Control • Controls │
+│ • Car Physics • Traffic Response │
+│ │
+└─────────────────────────────────────────────────────────────┘
